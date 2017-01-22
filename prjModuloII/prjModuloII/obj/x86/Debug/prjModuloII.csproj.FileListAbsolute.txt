@@ -1,0 +1,32 @@
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.Principal.resources
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\bin\Debug\prjModuloII.exe
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\bin\Debug\prjModuloII.pdb
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.exe
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.pdb
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.EscolheAB.resources
+c:\users\bruno\documents\visual studio 2010\Projects\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.NomeNo.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.exe
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.pdb
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.EscolheAB.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.NomeNo.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.Principal.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.Properties.Resources.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\prjModuloII.exe
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\prjModuloII.pdb
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.AddArcos.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.formRenomear.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\Microsoft.GLEE.dll
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\Microsoft.GLEE.Drawing.dll
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.VisualizarMapa.resources
+C:\Users\Bruno\Desktop\prjModuloII\prjModuloII\obj\x86\Debug\prjModuloII.recebeValorCombustivel.resources
